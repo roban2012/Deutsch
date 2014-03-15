@@ -1,6 +1,6 @@
 改config
 moban-GZ
-PG 2.0.0-2.9.0
+PG 2.0.0-3.1.0
 
 修改版权story00.
 
@@ -16,12 +16,12 @@ links
 
 Old:
 
-<a href= "link01.html">如何制作</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
+<a href= "link01.html">疯狂德语的方法</a><br><br>
+<a href= "link02.html">德国何以获得以色列信任</a><br><br>
+<a href= "link03.html">以色列概况</a><br><br>
+<a href= "link04.html">默克尔在以色列国会演讲（德语全文）</a><br><br>
+<a href= "link05.html">基地组织（Al-Qaeda）在 Fallujah 建国</a><br><br>
+<a href= "link06.html">End the Slavery Blame-Game</a><br><br>
 <a href= "link02.html">开发制作周期</a><br><br>
 <a href= "link02.html">开发制作周期</a><br><br>
 <a href= "link02.html">开发制作周期</a><br><br>
@@ -38,6 +38,52 @@ Old:
 <a href= "pic06.html">名言佳句（短句）</a><br><br>
 <a href= "pic07.html">名言佳句（俾斯麦）</a><br><br>
 <a href= "pic08.html">文摘（战争和航海）</a><br><br>
+<a href= "pic09.html">德语五大发音秘诀</a><br><br>
+<a href= "pic10.html">常见句型和语法（陈述句）</a><br><br>
+<a href= "pic11.html">常见句型和语法（一般疑问句）</a><br><br>
+<a href= "pic12.html">常见句型和语法（何时）</a><br><br>
+<a href= "pic13.html">常见句型和语法（问谁或什么）</a><br><br>
+<a href= "pic14.html">常见句型和语法（how）</a><br><br>
+<a href= "pic15.html">常见句型和语法（哪里）</a><br><br>
+<a href= "pic16.html">常见句型和语法（为什么）</a><br><br>
+
+<a href= "pic17.html">背诵短文：Ein Zug in Deutschland</a><br><br>
+<a href= "pic18.html">关于Ein Zug的问答</a><br><br>
+<a href= "pic19.html">背诵短文：Bilder aus Deutschland</a><br><br>
+<a href= "pic20.html">背诵短文：Die Stadt Frankfurt</a><br><br>
+<a href= "pic21.html">背诵短文：einem Vorort von New York</a><br><br>
+<a href= "pic22.html">背诵短文：Studentinnen</a><br><br>
+<a href= "pic23.html">背诵短文：Miller besichtigt Hamburg</a><br><br>
+<a href= "pic24.html">背诵短文：科隆（Eyewitness）</a><br><br>
+<a href= "pic25.html">背诵短文：Die Schweiz（瑞士）</a><br><br>
+<a href= "pic26.html">背诵短文：维也纳（Wien）</a><br><br>
+<a href= "pic27.html">背诵短文：E-Mail（书信）</a><br><br>
+<a href= "pic28.html">背诵短文：Mama Tagebuch</a><br><br>
+<a href= "pic29.html">背诵短文：Papa Tagebuch</a><br><br>
+<a href= "pic30.html">背诵短文：孩子们的日记</a><br><br>
+<a href= "pic31.html">背诵短文：故事讲述</a><br><br>
+<a href= "pic32.html">背诵短文：昨天的事情</a><br><br>
+<a href= "pic33.html">背诵短文：今天和昨天</a><br><br>
+<a href= "pic34.html">背诵短文：我和你</a><br><br>
+
+<a href= "pic35.html">日常对话：商店购物</a><br><br>
+<a href= "pic36.html">日常对话：餐馆下单</a><br><br>
+<a href= "pic37.html">日常对话：买单付款</a><br><br>
+<a href= "pic38.html">日常对话：因为所以</a><br><br>
+<a href= "pic39.html">日常对话：如何抱怨</a><br><br>
+<a href= "pic40.html">日常对话：点初次见面</a><br><br>
+
+<a href= "pic41.html">德语歌曲：平安夜</a><br><br>
+
+<a href= "pic42.html">挑战原文：德语探险</a><br><br>
+<a href= "pic43.html">挑战原文：环球航海</a><br><br>
+<a href= "pic44.html">挑战原文：End the Slavery Blame-Game</a><br><br>
+<a href= "pic45.html">挑战原文：德国总理科尔</a><br><br>
+<a href= "pic46.html">挑战原文：德国大众</a><br><br>
+<a href= "pic47.html">挑战原文：默克尔简历（1）</a><br><br>
+<a href= "pic48.html">挑战原文：默克尔演讲录音（1）</a><br><br>
+
+
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
@@ -45,4 +91,50 @@ Old:
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
- 
+<a href= "pic02.html">应用程序制作模板</a><br><br>
+
+
+
+<a href= "pic901.html">学习指导（01）</a><br><br>
+<a href= "pic902.html">学习指导（02）</a><br><br>
+<a href= "pic903.html">学习指导（03）</a><br><br>
+<a href= "pic904.html">学习指导（04）</a><br><br>
+<a href= "pic905.html">学习指导（05）</a><br><br>
+<a href= "pic906.html">学习指导（06）</a><br><br>
+
+<a href= "pic907.html">学习指导（07）</a><br><br>
+<a href= "pic908.html">学习指导（08）</a><br><br>
+<a href= "pic909.html">学习指导（09）</a><br><br>
+<a href= "pic910.html">学习指导（10）</a><br><br>
+<a href= "pic911.html">学习指导（11）</a><br><br>
+<a href= "pic912.html">学习指导（12）</a><br><br>
+<a href= "pic913.html">学习指导（13）</a><br><br>
+
+
+<a href= "pic914.html">学习指导（14）</a><br><br>
+<a href= "pic915.html">学习指导（15）</a><br><br>
+<a href= "pic916.html">学习指导（16）</a><br><br>
+
+
+<a href= "pic917.html">学习指导（17）</a><br><br>
+
+<a href= "pic918.html">学习指导（18）</a><br><br>
+<a href= "pic919.html">学习指导（19）</a><br><br>
+<a href= "pic920.html">学习指导（20）</a><br><br>
+<a href= "pic921.html">学习指导（21）</a><br><br>
+<a href= "pic922.html">学习指导（22）</a><br><br>
+
+
+<a href= "pic923.html">学习指导（23）</a><br><br>
+<a href= "pic924.html">学习指导（24）</a><br><br>
+
+
+<a href= "pic925.html">学习指导（25）</a><br><br>
+<a href= "pic926.html">学习指导（26）</a><br><br>
+
+<a href= "pic927.html">学习指导（27）</a><br><br>
+
+<a href= "pic920.html">学习指导（20）</a><br><br>
+<a href= "pic920.html">学习指导（20）</a><br><br>
+
+
