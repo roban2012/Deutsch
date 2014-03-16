@@ -22,9 +22,9 @@ Old:
 <a href= "link04.html">默克尔在以色列国会演讲（德语全文）</a><br><br>
 <a href= "link05.html">基地组织（Al-Qaeda）在 Fallujah 建国</a><br><br>
 <a href= "link06.html">End the Slavery Blame-Game</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
+<a href= "link07.html">魔戒的“大一统”铭文（英德）</a><br><br>
+<a href= "link08.html">Kissinger:  How the Ukraine crisis ends</a><br><br>
+<a href= "link09.html">学习外语的窍门</a><br><br>
 <a href= "link02.html">开发制作周期</a><br><br>
  
 
@@ -71,7 +71,7 @@ Old:
 <a href= "pic37.html">日常对话：买单付款</a><br><br>
 <a href= "pic38.html">日常对话：因为所以</a><br><br>
 <a href= "pic39.html">日常对话：如何抱怨</a><br><br>
-<a href= "pic40.html">日常对话：点初次见面</a><br><br>
+<a href= "pic40.html">日常对话：初次见面</a><br><br>
 
 <a href= "pic41.html">德语歌曲：平安夜</a><br><br>
 
@@ -84,10 +84,12 @@ Old:
 <a href= "pic48.html">挑战原文：默克尔演讲录音（1）</a><br><br>
 
 
-<a href= "pic02.html">应用程序制作模板</a><br><br>
-<a href= "pic02.html">应用程序制作模板</a><br><br>
-<a href= "pic02.html">应用程序制作模板</a><br><br>
-<a href= "pic02.html">应用程序制作模板</a><br><br>
+<a href= "pic49.html">日常口语：偶遇闲聊（1）</a><br><br>
+<a href= "pic50.html">日常口语：偶遇闲聊（2）</a><br><br>
+<a href= "pic51.html">日常口语：偶遇闲聊（3）</a><br><br>
+
+<a href= "pic53.html">歌曲：平安夜（解说）</a><br><br>
+
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
@@ -134,7 +136,90 @@ Old:
 
 <a href= "pic927.html">学习指导（27）</a><br><br>
 
-<a href= "pic920.html">学习指导（20）</a><br><br>
-<a href= "pic920.html">学习指导（20）</a><br><br>
+crazy:
+
+<a href= "pic928.html">学习指导（28）</a><br><br>
+<a href= "pic929.html">学习指导（29）</a><br><br>
+
+<a href= "pic930.html">学习指导（30）</a><br><br>
+<a href= "pic931.html">学习指导（31）</a><br><br>
+
+
+<a href= "pic932.html">学习指导（32）</a><br><br>
+<a href= "pic933.html">学习指导（33）</a><br><br>
+<a href= "pic934.html">学习指导（34）</a><br><br>
+<a href= "pic935.html">学习指导（35）</a><br><br>
+<a href= "pic936.html">学习指导（36）</a><br><br>
+
+
+<a href= "pic937.html">学习指导（37）</a><br><br>
+<a href= "pic938.html">学习指导（38）</a><br><br>
+
+<a href= "pic939.html">学习指导（39）</a><br><br>
+
+
+<a href= "pic940.html">学习指导（40）</a><br><br>
+<a href= "pic941.html">学习指导（41）</a><br><br>
+<a href= "pic942.html">学习指导（42）</a><br><br>
+
+
+<a href= "pic943.html">学习指导（43）</a><br><br>
+<a href= "pic944.html">学习指导（44）</a><br><br>
+
+
+<a href= "pic945.html">学习指导（45）</a><br><br>
+<a href= "pic946.html">学习指导（46）</a><br><br>
+
+
+<a href= "pic947.html">学习指导（47）</a><br><br>
+
+
+<a href= "pic948.html">学习指导（48）</a><br><br>
+<a href= "pic949.html">学习指导（49）</a><br><br>
+
+
+<a href= "pic950.html">学习指导（50）</a><br><br>
+<a href= "pic951.html">学习指导（51）</a><br><br>
+<a href= "pic952.html">学习指导（52）</a><br><br>
+<a href= "pic953.html">学习指导（53）</a><br><br>
+
+
+
+<a href= "pic954.html">学习指导（54）</a><br><br>
+
+
+<a href= "pic955.html">学习指导（55）</a><br><br>
+
+
+<a href= "pic955.html">学习指导（56）</a><br><br>
+<a href= "pic957.html">学习指导（57）</a><br><br>
+
+
+<a href= "pic958.html">学习指导（58）</a><br><br>
+<a href= "pic959.html">学习指导（59）</a><br><br>
+
+<a href= "pic960.html">学习指导（60）</a><br><br>
+
+
+<a href= "pic961.html">学习指导（61）</a><br><br>
+<a href= "pic962.html">学习指导（62）</a><br><br>
+
+
+<a href= "pic963.html">学习指导（63）</a><br><br>
+
+
+<a href= "pic964.html">学习指导（64）</a><br><br>
+
+<a href= "pic965.html">学习指导（65）</a><br><br>
+
+<a href= "pic966.html">学习指导（66）</a><br><br>
+
+<a href= "pic967.html">学习指导（67）</a><br><br>
+
+<a href= "pic968.html">学习指导（68）</a><br><br>
+
+
+<a href= "pic960.html">学习指导（60）</a><br><br>
+<a href= "pic960.html">学习指导（60）</a><br><br>
 
 
