@@ -25,6 +25,11 @@ Old:
 <a href= "link07.html">魔戒的“大一统”铭文（英德）</a><br><br>
 <a href= "link08.html">Kissinger:  How the Ukraine crisis ends</a><br><br>
 <a href= "link09.html">学习外语的窍门</a><br><br>
+<a href= "link10.html">海上学府（Semester At Sea）</a><br><br>
+
+<a href= "link02.html">开发制作周期</a><br><br>
+<a href= "link02.html">开发制作周期</a><br><br>
+<a href= "link02.html">开发制作周期</a><br><br>
 <a href= "link02.html">开发制作周期</a><br><br>
  
 
@@ -90,8 +95,20 @@ Old:
 
 <a href= "pic53.html">歌曲：平安夜（解说）</a><br><br>
 
-<a href= "pic02.html">应用程序制作模板</a><br><br>
-<a href= "pic02.html">应用程序制作模板</a><br><br>
+<a href= "pic54.html">歌曲：流行儿歌（Schnappi）</a><br><br>
+<a href= "pic55.html">歌曲：《国际歌》（Die Internationale）</a><br><br>
+
+
+<a href= "pic56.html">诗：Natur und Kunst （von Goethe）</a><br><br>
+
+<a href= "pic57.html">挑战原文：但泽（Danzig）</a><br><br>
+
+
+<a href= "pic58.html">日耳曼人大迁徙（蛮族入侵）</a><br><br>
+
+
+<a href= "pic59.html">Volkswagen 2012年报（Vielfalt erfahren）</a><br><br>
+
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 <a href= "pic02.html">应用程序制作模板</a><br><br>
 
