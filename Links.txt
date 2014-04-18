@@ -28,14 +28,12 @@ Old:
 <a href= "link10.html">海上学府（Semester At Sea）</a><br><br>
 <a href= "link11.html">龙应台的德国家庭</a><br><br>
 
-
 <a href= "link12.html">世界大战的心理逻辑</a><br><br>
-
-
 <a href= "link13.html">哥萨克民主的困境</a><br><br>
-
 <a href= "link14.html">舆论战、心理战、法律战</a><br><br>
-<a href= "link02.html">开发制作周期</a><br><br>
+<a href= "link15.html">The New Cold War: China vs Japan</a><br><br>
+
+
 <a href= "link02.html">开发制作周期</a><br><br>
  
 
@@ -164,6 +162,8 @@ Old:
 <a href= "pic89.html">德福作文：Das Fernstudium（要求）</a><br><br>
 
 
+
+
 <a href= "pic101.html">德福作文：Das Fernstudium（题目-1）</a><br><br>
 <a href= "pic102.html">德福作文：Das Fernstudium（题目-2）</a><br><br>
 
@@ -182,6 +182,7 @@ Old:
 <a href= "pic112.html">德福作文：Medien und Internet（范文-4）</a><br><br>
 <a href= "pic113.html">德福作文：Medien und Internet（范文-5）</a><br><br>
 
+<a href= "pic100.html">爱（Was du liebst, lass frei）</a><br><br>
 
 
 
