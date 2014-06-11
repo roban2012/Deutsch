@@ -1,0 +1,356 @@
+改config
+moban-GZ
+PG 2.0.0-3.1.0
+
+修改版权story00.
+
+新版
+
+
+更多资讯，请访问：<a href= "http://www.retter2012.com" title="点击进入"> retter2012.com </a>。<br><br>
+
+在过度营销的时代，我们提供“更快的速度”和“更好的内容”。<br><br>
+<a href="http://www.retter2012.com/">Retter is Better</a>, WE Create and Deliver Real Value!<br><br>
+
+
+
+links
+
+Old:
+
+<a href= "link01.html">疯狂德语的方法</a><br><br>
+<a href= "link02.html">德国何以获得以色列信任</a><br><br>
+<a href= "link03.html">以色列概况</a><br><br>
+<a href= "link04.html">默克尔在以色列国会演讲（德语全文）</a><br><br>
+<a href= "link05.html">基地组织（Al-Qaeda）在 Fallujah 建国</a><br><br>
+<a href= "link06.html">End the Slavery Blame-Game</a><br><br>
+<a href= "link07.html">魔戒的“大一统”铭文（英德）</a><br><br>
+<a href= "link08.html">Kissinger:  How the Ukraine crisis ends</a><br><br>
+<a href= "link09.html">学习外语的窍门</a><br><br>
+<a href= "link10.html">海上学府（Semester At Sea）</a><br><br>
+<a href= "link11.html">龙应台的德国家庭</a><br><br>
+
+<a href= "link12.html">世界大战的心理逻辑</a><br><br>
+<a href= "link13.html">哥萨克民主的困境</a><br><br>
+<a href= "link14.html">舆论战、心理战、法律战</a><br><br>
+<a href= "link15.html">The New Cold War: China vs Japan</a><br><br>
+
+<a href= "link16.html">2014：奥巴马西点演讲</a><br><br>
+<a href= "link17.html">战舰美利坚号</a><br><br>
+ 
+
+
+<a href= "pic00.html">语法分析和符号约定</a><br><br>
+<a href= "pic01.html">计算机键盘语言设置</a><br><br>
+
+
+<a href= "pic02.html">德国地图</a><br><br>
+<a href= "pic03.html">普鲁士（Prussia）地图</a><br><br>
+<a href= "pic04.html">数字和数数</a><br><br>
+<a href= "pic05.html">月份和星期</a><br><br>
+<a href= "pic06.html">名言佳句（短句）</a><br><br>
+<a href= "pic07.html">名言佳句（俾斯麦）</a><br><br>
+<a href= "pic08.html">文摘（战争和航海）</a><br><br>
+<a href= "pic09.html">德语五大发音秘诀</a><br><br>
+<a href= "pic10.html">常见句型和语法（陈述句）</a><br><br>
+<a href= "pic11.html">常见句型和语法（一般疑问句）</a><br><br>
+<a href= "pic12.html">常见句型和语法（何时）</a><br><br>
+<a href= "pic13.html">常见句型和语法（问谁或什么）</a><br><br>
+<a href= "pic14.html">常见句型和语法（how）</a><br><br>
+<a href= "pic15.html">常见句型和语法（哪里）</a><br><br>
+<a href= "pic16.html">常见句型和语法（为什么）</a><br><br>
+
+<a href= "pic17.html">背诵短文：Ein Zug in Deutschland</a><br><br>
+<a href= "pic18.html">关于Ein Zug的问答</a><br><br>
+<a href= "pic19.html">背诵短文：Bilder aus Deutschland</a><br><br>
+<a href= "pic20.html">背诵短文：Die Stadt Frankfurt</a><br><br>
+<a href= "pic21.html">背诵短文：einem Vorort von New York</a><br><br>
+<a href= "pic22.html">背诵短文：Studentinnen</a><br><br>
+<a href= "pic23.html">背诵短文：Miller besichtigt Hamburg</a><br><br>
+<a href= "pic24.html">背诵短文：科隆（Eyewitness）</a><br><br>
+<a href= "pic25.html">背诵短文：Die Schweiz（瑞士）</a><br><br>
+<a href= "pic26.html">背诵短文：维也纳（Wien）</a><br><br>
+<a href= "pic27.html">背诵短文：E-Mail（书信）</a><br><br>
+<a href= "pic28.html">背诵短文：Mama Tagebuch</a><br><br>
+<a href= "pic29.html">背诵短文：Papa Tagebuch</a><br><br>
+<a href= "pic30.html">背诵短文：孩子们的日记</a><br><br>
+<a href= "pic31.html">背诵短文：故事讲述</a><br><br>
+<a href= "pic32.html">背诵短文：昨天的事情</a><br><br>
+<a href= "pic33.html">背诵短文：今天和昨天</a><br><br>
+<a href= "pic34.html">背诵短文：我和你</a><br><br>
+
+<a href= "pic35.html">日常对话：商店购物</a><br><br>
+<a href= "pic36.html">日常对话：餐馆下单</a><br><br>
+<a href= "pic37.html">日常对话：买单付款</a><br><br>
+<a href= "pic38.html">日常对话：因为所以</a><br><br>
+<a href= "pic39.html">日常对话：如何抱怨</a><br><br>
+<a href= "pic40.html">日常对话：初次见面</a><br><br>
+
+<a href= "pic41.html">德语歌曲：平安夜</a><br><br>
+
+<a href= "pic42.html">挑战原文：德语探险</a><br><br>
+<a href= "pic43.html">挑战原文：环球航海</a><br><br>
+<a href= "pic44.html">挑战原文：End the Slavery Blame-Game</a><br><br>
+<a href= "pic45.html">挑战原文：德国总理科尔</a><br><br>
+<a href= "pic46.html">挑战原文：德国大众</a><br><br>
+<a href= "pic47.html">挑战原文：默克尔简历（1）</a><br><br>
+<a href= "pic48.html">挑战原文：默克尔演讲录音（1）</a><br><br>
+
+
+<a href= "pic49.html">日常口语：偶遇闲聊（1）</a><br><br>
+<a href= "pic50.html">日常口语：偶遇闲聊（2）</a><br><br>
+<a href= "pic51.html">日常口语：偶遇闲聊（3）</a><br><br>
+
+
+<a href= "pic52.html">Retter2012 版权</a> 声明!<br><br>
+
+
+<a href= "pic53.html">歌曲：平安夜（解说）</a><br><br>
+
+<a href= "pic54.html">歌曲：流行儿歌（Schnappi）</a><br><br>
+<a href= "pic55.html">歌曲：《国际歌》（Die Internationale）</a><br><br>
+
+
+<a href= "pic56.html">诗：Natur und Kunst （von Goethe）</a><br><br>
+
+<a href= "pic57.html">挑战原文：但泽（Danzig）</a><br><br>
+
+
+<a href= "pic58.html">日耳曼人大迁徙（蛮族入侵）</a><br><br>
+
+
+<a href= "pic59.html">Volkswagen 2012年报（Vielfalt erfahren）</a><br><br>
+
+
+<a href= "pic60.html">Piratenpartei</a><br><br>
+
+<a href= "pic61.html">Das gibt's nur einmal</a><br><br>
+
+
+<a href= "pic62.html">语法大作战：小红帽（1）</a><br><br>
+<a href= "pic63.html">语法大作战：小红帽（2）</a><br><br>
+
+2014-4-29-REVISE
+
+
+<a href= "pic64.html">语法大作战：典型句型</a><br><br>
+<a href= "pic65.html">语法大作战：从句（1）</a><br><br>
+<a href= "pic66.html">语法大作战：从句（2）</a><br><br>
+<a href= "pic67.html">语法大作战：从句（3）</a><br><br>
+
+<a href= "pic68.html">语法大作战：因果（1）</a><br><br>
+<a href= "pic69.html">语法大作战：因果（2）</a><br><br>
+
+<a href= "pic70.html">一生中只追求完美</a><br><br>
+
+
+<a href= "pic71.html">德语名言：政治经济（1）</a><br><br>
+<a href= "pic72.html">德语名言：政治经济（2）</a><br><br>
+
+V2.1-加入2个文件
+<a href= "pic201.html">德语名言：政治经济（3）</a><br><br>
+<a href= "pic202.html">德语名言：政治经济（4）</a><br><br>
+
+
+<a href= "pic73.html">德语名言：激励奋斗（1）</a><br><br>
+<a href= "pic74.html">德语名言：激励奋斗（2）</a><br><br>
+<a href= "pic75.html">德语名言：激励奋斗（3）</a><br><br>
+
+V2.1-加入文件
+<a href= "pic203.html">德语名言：激励奋斗（4）</a><br><br>  HITLER
+<a href= "pic204.html">德语名言：激励奋斗（5）</a><br><br>
+<a href= "pic205.html">德语名言：激励奋斗（6）</a><br><br>
+
+<a href= "pic206.html">Harry Potter 核心情节</a><br><br>
+
+<a href= "pic100.html">爱（Was du liebst, lass frei）</a><br><br>
+
+
+V2.2-加入文件
+<a href= "pic207.html">德语常用缩写</a><br><br>
+<a href= "pic208.html">美国领导世界</a><br><br>
+<a href= "pic209.html">“优等民族”考</a><br><br>
+<a href= "pic210.html">君子和超人（魔道）</a><br><br>
+
+V2.6-加入文件6-10
+<a href= "pic211.html">亚洲是亚洲人的亚洲</a><br><br>
+
+
+
+
+<a href= "pic76.html">德语名言：Segel航海（1）</a><br><br>
+<a href= "pic77.html">德语名言：Segel航海（2）</a><br><br>
+
+
+<a href= "pic78.html">德语名言：哲学智慧（1）</a><br><br>
+<a href= "pic79.html">德语名言：哲学智慧（2）</a><br><br>
+<a href= "pic80.html">德语名言：哲学智慧（3）</a><br><br>
+
+
+
+<a href= "pic81.html">积累词汇：语言资产（1）</a><br><br>
+<a href= "pic82.html">积累词汇：语言资产（2）</a><br><br>
+
+
+<a href= "pic83.html">德福写作：总分总</a><br><br>
+<a href= "pic84.html">德福写作：文章结构</a><br><br>
+<a href= "pic85.html">德福写作：写作提纲</a><br><br>
+<a href= "pic86.html">德福写作：逻辑和形式</a><br><br>
+<a href= "pic87.html">德福写作：议论辩论</a><br><br>
+<a href= "pic88.html">德福写作：评分要求</a><br><br>
+
+<a href= "pic89.html">德福作文：Das Fernstudium（要求）</a><br><br>
+
+
+
+
+<a href= "pic101.html">德福作文：Das Fernstudium（题目-1）</a><br><br>
+<a href= "pic102.html">德福作文：Das Fernstudium（题目-2）</a><br><br>
+
+
+<a href= "pic103.html">德福作文：Das Fernstudium（范文-1）</a><br><br>
+<a href= "pic104.html">德福作文：Das Fernstudium（范文-2）</a><br><br>
+<a href= "pic105.html">德福作文：Das Fernstudium（范文-3）</a><br><br>
+
+
+<a href= "pic106.html">德福作文：Medien und Internet（题目-1）</a><br><br>
+<a href= "pic107.html">德福作文：Medien und Internet（题目-2）</a><br><br>
+<a href= "pic108.html">德福作文：Medien und Internet（题目-3）</a><br><br>
+<a href= "pic109.html">德福作文：Medien und Internet（范文-1）</a><br><br>
+<a href= "pic110.html">德福作文：Medien und Internet（范文-2）</a><br><br>
+<a href= "pic111.html">德福作文：Medien und Internet（范文-3）</a><br><br>
+<a href= "pic112.html">德福作文：Medien und Internet（范文-4）</a><br><br>
+<a href= "pic113.html">德福作文：Medien und Internet（范文-5）</a><br><br>
+
+
+
+
+
+
+
+<a href= "pic901.html">学习指导（01）</a><br><br>
+<a href= "pic902.html">学习指导（02）</a><br><br>
+<a href= "pic903.html">学习指导（03）</a><br><br>
+<a href= "pic904.html">学习指导（04）</a><br><br>
+<a href= "pic905.html">学习指导（05）</a><br><br>
+<a href= "pic906.html">学习指导（06）</a><br><br>
+
+<a href= "pic907.html">学习指导（07）</a><br><br>
+<a href= "pic908.html">学习指导（08）</a><br><br>
+<a href= "pic909.html">学习指导（09）</a><br><br>
+<a href= "pic910.html">学习指导（10）</a><br><br>
+<a href= "pic911.html">学习指导（11）</a><br><br>
+<a href= "pic912.html">学习指导（12）</a><br><br>
+<a href= "pic913.html">学习指导（13）</a><br><br>
+
+
+<a href= "pic914.html">学习指导（14）</a><br><br>
+<a href= "pic915.html">学习指导（15）</a><br><br>
+<a href= "pic916.html">学习指导（16）</a><br><br>
+
+
+<a href= "pic917.html">学习指导（17）</a><br><br>
+
+<a href= "pic918.html">学习指导（18）</a><br><br>
+<a href= "pic919.html">学习指导（19）</a><br><br>
+<a href= "pic920.html">学习指导（20）</a><br><br>
+<a href= "pic921.html">学习指导（21）</a><br><br>
+<a href= "pic922.html">学习指导（22）</a><br><br>
+
+
+<a href= "pic923.html">学习指导（23）</a><br><br>
+<a href= "pic924.html">学习指导（24）</a><br><br>
+
+
+<a href= "pic925.html">学习指导（25）</a><br><br>
+<a href= "pic926.html">学习指导（26）</a><br><br>
+
+<a href= "pic927.html">学习指导（27）</a><br><br>
+
+crazy:
+
+<a href= "pic928.html">学习指导（28）</a><br><br>
+<a href= "pic929.html">学习指导（29）</a><br><br>
+
+<a href= "pic930.html">学习指导（30）</a><br><br>
+<a href= "pic931.html">学习指导（31）</a><br><br>
+
+
+<a href= "pic932.html">学习指导（32）</a><br><br>
+<a href= "pic933.html">学习指导（33）</a><br><br>
+<a href= "pic934.html">学习指导（34）</a><br><br>
+<a href= "pic935.html">学习指导（35）</a><br><br>
+<a href= "pic936.html">学习指导（36）</a><br><br>
+
+
+<a href= "pic937.html">学习指导（37）</a><br><br>
+<a href= "pic938.html">学习指导（38）</a><br><br>
+
+<a href= "pic939.html">学习指导（39）</a><br><br>
+
+
+<a href= "pic940.html">学习指导（40）</a><br><br>
+<a href= "pic941.html">学习指导（41）</a><br><br>
+<a href= "pic942.html">学习指导（42）</a><br><br>
+
+
+<a href= "pic943.html">学习指导（43）</a><br><br>
+<a href= "pic944.html">学习指导（44）</a><br><br>
+
+
+<a href= "pic945.html">学习指导（45）</a><br><br>
+<a href= "pic946.html">学习指导（46）</a><br><br>
+
+
+<a href= "pic947.html">学习指导（47）</a><br><br>
+
+
+<a href= "pic948.html">学习指导（48）</a><br><br>
+<a href= "pic949.html">学习指导（49）</a><br><br>
+
+
+<a href= "pic950.html">学习指导（50）</a><br><br>
+<a href= "pic951.html">学习指导（51）</a><br><br>
+<a href= "pic952.html">学习指导（52）</a><br><br>
+<a href= "pic953.html">学习指导（53）</a><br><br>
+
+
+
+<a href= "pic954.html">学习指导（54）</a><br><br>
+
+
+<a href= "pic955.html">学习指导（55）</a><br><br>
+
+
+<a href= "pic955.html">学习指导（56）</a><br><br>
+<a href= "pic957.html">学习指导（57）</a><br><br>
+
+
+<a href= "pic958.html">学习指导（58）</a><br><br>
+<a href= "pic959.html">学习指导（59）</a><br><br>
+
+<a href= "pic960.html">学习指导（60）</a><br><br>
+
+
+<a href= "pic961.html">学习指导（61）</a><br><br>
+<a href= "pic962.html">学习指导（62）</a><br><br>
+
+
+<a href= "pic963.html">学习指导（63）</a><br><br>
+
+
+<a href= "pic964.html">学习指导（64）</a><br><br>
+
+<a href= "pic965.html">学习指导（65）</a><br><br>
+
+<a href= "pic966.html">学习指导（66）</a><br><br>
+
+<a href= "pic967.html">学习指导（67）</a><br><br>
+
+<a href= "pic968.html">学习指导（68）</a><br><br>
+
+
+<a href= "pic960.html">学习指导（60）</a><br><br>
+<a href= "pic960.html">学习指导（60）</a><br><br>
+
+
